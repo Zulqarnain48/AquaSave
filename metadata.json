@@ -1,0 +1,6 @@
+{
+  "name": "AquaSave - Smart Water-Saving & SDG 6 Conservation System",
+  "description": "Smart domestic water consumption tracker, IoT sensor flow monitor, leak detection, daily/weekly analytics, smart reminders, and conservation habits supporting SDG 6.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
